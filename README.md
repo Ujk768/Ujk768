@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kanade</h1>
-<h3 align="center">A passionate frontend developer aspiring full-stack developer</h3>
+<h3 align="center">A passionate frontend developer aspiring to be a  full-stack developer</h3>
 
 - 🌱 I’m currently learning **NextJs Node JS React JS FireBase**
 
