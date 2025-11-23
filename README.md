@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kanade</h1>
 <h3 align="center">A passionate frontend developer aspiring to be a  full-stack developer</h3>
 
-- 🌱 I build projects in ** NextJs, Node JS, React ,JS Node JS, Go lang , Python and Java**
+- 🌱 I build projects in **NextJs, Node JS, React ,JS Node JS, Go lang , Python and Java**
 
 - 💬 Ask me about **React Node MongoDB JavaScript**
 
